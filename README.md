@@ -10,12 +10,17 @@ Executar: .\programa
 Teste 1: funcionamento normal
 Entrada:
 Quantidade de estudantes: 1
-Nome: Ana
-Notas: 5, 6 e 7
-Resultado esperado: média 6,00, situação "atingiu a meta". Média geral 6,00 e maior média 6,00 (Ana).
+
+Nome: Gabriel
+
+Notas: 5, 5 e 5
+
+Resultado esperado: média 5,00, situação "abaixo da meta". Média geral 5,00 e maior média 5,00 (Ana).
 
 Teste 2: entrada inválida
+
 Entrada: ao digitar a nota 11 para um estudante.
+
 Resultado esperado: o programa rejeita o valor, mostra a mensagem de nota inválida e pede a nota novamente.
 
-Vídeo:
+Vídeo: https://youtu.be/a60Cee2m-Vs
