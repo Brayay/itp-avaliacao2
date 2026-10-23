@@ -15,7 +15,7 @@ Nome: Gabriel
 
 Notas: 5, 5 e 5
 
-Resultado esperado: média 5,00, situação "abaixo da meta". Média geral 5,00 e maior média 5,00 (Ana).
+Resultado esperado: média 5,00, situação "abaixo da meta". Média geral 5,00 e maior média 5,00 (Gabriel).
 
 Teste 2: entrada inválida
 
