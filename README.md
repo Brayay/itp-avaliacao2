@@ -5,7 +5,7 @@ Descrição: O programa registra três notas de cada estudante de uma turma de a
 Funcionalidades: Ler quantidade de estudantes, nome de cada um, 3 notas de cada estudante; Armazenar as notas em uma matriz; Calcular médias de cada estudante; Exibir tabela com todas as informações, média geral da turma e maior média
 
 Compilar: gcc -std=c11 -Wall -Wextra main.c -o programa
-Executar: ./programa
+Executar: .\programa
 
 Teste 1: funcionamento normal
 Entrada:
